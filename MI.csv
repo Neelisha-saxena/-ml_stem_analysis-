@@ -1,0 +1,255 @@
+column name,mutual info score
+Index Number,0.5079785800867749
+Investment Name,0.5079785800867749
+Agency,0.029627290069695444
+Subagency,0.1585745906831743
+A) Brief Description,0.5079785800867749
+B) Year Established,0.10563117755713633
+D) Mission-specific or General STEM?,0.0030613164175550024
+E) Agency or Mission-Related Workforce Needs?,0.0029961283379794437
+F1) Primary Investment Objective,0.011581804306142574
+F2) Secondary Investment Objectives,0.0019159417003780377
+F2) Secondary Investment Objectives 1,0.00031437479643242616
+F2) Secondary Investment Objectives 2,0.004045620669770877
+F2) Secondary Investment Objectives 3,2.9788518240148054e-06
+F2) Secondary Investment Objectives 4,0.0015378458715400445
+F2) Secondary Investment Objectives 5,0.0020555994631979435
+F2) Secondary Investment Objectives 6,0.009800944261999178
+F2) Secondary Investment Objectives 7,0.00021397276570112034
+F2) Secondary Investment Objectives 8,0.002441255886885027
+F2) Secondary Investment Objectives 9,0.059776785069532976
+G1) Primary Research Approaches,0.0010667624134962778
+G1) Primary Research Approaches 1,6.416296610906036e-05
+G1) Primary Research Approaches 2,0.0002372458203684924
+G1) Primary Research Approaches 3,0.00024278886015957624
+G1) Primary Research Approaches 4,0.007586167460523707
+G2) Secondary Research Approaches,0.0055078391157302314
+G2) Secondary Research Approaches 1,0.009104566163556399
+G2) Secondary Research Approaches 2,2.0392463559573692e-05
+G2) Secondary Research Approaches 3,0.0012267945166214989
+G2) Secondary Research Approaches 4,0.00026501792629478327
+G3) Research Approaches Not Used,5.244135353060786e-05
+G3) Research Approaches Not Used 1,0.00015103144964065396
+G3) Research Approaches Not Used 2,0.004756527258198168
+G3) Research Approaches Not Used 3,0.004857556097017712
+G3) Research Approaches Not Used 4,0.0006716083388844801
+H) Educational Services or Products Produced,0.002031374843860956
+H) Educational Services or Products Produced 1,0.001271004369602563
+H) Educational Services or Products Produced 2,0.00496801159472951
+H) Educational Services or Products Produced 3,0.0006145320673262566
+H) Educational Services or Products Produced 4,2.5154723037879023e-07
+H) Educational Services or Products Produced 5,0.004022074514800161
+H) Educational Services or Products Produced 6,0.001848224092879297
+H) Educational Services or Products Produced 7,0.002038141637024843
+H) Educational Services or Products Produced 8,0.00470183244018349
+H) Educational Services or Products Produced 9,0.0012100704544761864
+H) Educational Services or Products Produced 10,4.3516417615074854e-05
+H) Educational Services or Products Produced 11,0.0018269823173310135
+H) Educational Services or Products Produced 12,0.0029023216615558234
+H) Educational Services or Products Produced 13,0.004478787676600829
+H) Educational Services or Products Produced 14,0.001909958028816175
+H) Educational Services or Products Produced 15,0.008358554476588443
+H) Educational Services or Products Produced 16,0.0018971154697480647
+H) Educational Services or Products Produced 17,0.0008008850788175925
+H) Educational Services or Products Produced 18,0.06491236143924038
+I1) STEM Learners Targeted? Specify.,0.002744519261126954
+I1) STEM Learners Targeted? Specify. 1,0.0007648202053956443
+I1) STEM Learners Targeted? Specify. 2,0.004018678461904485
+I1) STEM Learners Targeted? Specify. 3,0.009327128546781041
+I1) STEM Learners Targeted? Specify. 4,0.0010688198325745218
+I1) STEM Learners Targeted? Specify. 5,0.003427509903233844
+I1) STEM Learners Targeted? Specify. 6,0.0025059454776645562
+I1) STEM Learners Targeted? Specify. 7,0.006545219946270123
+I2) Pre-service-service STEM Teachers Targeted? Specify.,0.0023993483117156662
+I2) Pre-service-service STEM Teachers Targeted? Specify. 1,0.00010278526935933452
+I2) Pre-service-service STEM Teachers Targeted? Specify. 2,0.000964493579243858
+I2) Pre-service-service STEM Teachers Targeted? Specify. 3,9.464898569946922e-05
+I2) Pre-service-service STEM Teachers Targeted? Specify. 4,0.00013966673075790914
+I3) In-service STEM Teachers Targeted? Specify.,1.79802405725904e-05
+I3) In-service STEM Teachers Targeted? Specify. 1,6.391921045714732e-05
+I3) In-service STEM Teachers Targeted? Specify. 2,0.002301417711949444
+I3) In-service STEM Teachers Targeted? Specify. 3,2.9788518240148054e-06
+I3) In-service STEM Teachers Targeted? Specify. 4,0.00024551798089031407
+I4) Adult Learners Targeted?,0.006494778414717503
+I5) Education Researchers Targeted? ,6.865568990909593e-05
+I6) K-12 Staff/Administrators Targeted? Specify.,0.0014958702607333653
+I6) K-12 Staff/Administrators Targeted? Specify. 1,0.0010264208512182418
+I6) K-12 Staff/Administrators Targeted? Specify. 2,0.0007799998934950869
+I6) K-12 Staff/Administrators Targeted? Specify. 3,0.0008886958344848928
+I6) K-12 Staff/Administrators Targeted? Specify. 4,0.0006073861093301713
+I7) Post-secondary Instructors Targeted? Specify.,0.0031967537723860684
+I7) Post-secondary Instructors Targeted? Specify. 1,0.0038304752828912936
+I7) Post-secondary Instructors Targeted? Specify. 2,0.002950705802628295
+I7) Post-secondary Instructors Targeted? Specify. 3,5.946754006634636e-06
+I8) Post-secondary Staff Targeted? Specify.,6.318349339046181e-05
+I8) Post-secondary Staff Targeted? Specify. 1,0.00020414893372953935
+I8) Post-secondary Staff Targeted? Specify. 2,0.003667719764332191
+I8) Post-secondary Staff Targeted? Specify. 3,0.004682326667874246
+I9) Informal Stem Educators Targeted?,0.004882047029099015
+I10) Other Informal STEM Education Staff Targeted?,0.0036047214610984736
+I11) Other Target Group?,0.00256971012839996
+I11) Other Target Group? 1,0.06466494468559639
+J) Focus on Underrepresented Groups in STEM,0.003414018111328524
+J) Focus on Underrepresented Groups in STEM 1,0.004372541305894515
+J) Focus on Underrepresented Groups in STEM 2,0.005132892206347217
+J) Focus on Underrepresented Groups in STEM 3,0.001524682937158614
+J) Focus on Underrepresented Groups in STEM 4,0.002750618306086694
+J) Focus on Underrepresented Groups in STEM 5,0.002387292979445038
+J) Focus on Underrepresented Groups in STEM 6,0.003407422350609937
+J) Focus on Underrepresented Groups in STEM 7,0.00019285915731644815
+J) Focus on Underrepresented Groups in STEM 8,1.360640477834213e-05
+J) Focus on Underrepresented Groups in STEM 9,0.0009114521142970268
+J) Focus on Underrepresented Groups in STEM 10,0.0021817627946296887
+J) Focus on Underrepresented Groups in STEM 11,0.0007262767417826575
+J) Focus on Underrepresented Groups in STEM 12,1.9028682694925692e-06
+J) Focus on Underrepresented Groups in STEM 13,0.0015725537798201294
+J) Focus on Underrepresented Groups in STEM 14,0.032408595940427345
+K) Eligibility Restrictions,0.0009775542028937524
+K) Eligibility Restrictions 1,3.2613226153554997e-06
+K) Eligibility Restrictions 2,0.0007749199587213651
+K) Eligibility Restrictions 3,0.0018261491791414092
+L) Minority Serving Institutions,0.0046894043362470245
+L) Minority Serving Institutions 1,0.00018934606341289295
+L) Minority Serving Institutions 2,0.004598412207329261
+L) Minority Serving Institutions 3,0.00274662743140279
+L) Minority Serving Institutions 4,0.0018269823173310135
+L) Minority Serving Institutions 5,0.0018269823173310135
+L) Minority Serving Institutions 6,0.00274662743140279
+M) Geographic Region,0.005304147845838384
+M) Geographic Region 1,0.009496659175585849
+M) Geographic Region 2,0.0009114521142970268
+M) Geographic Region 3,0.0009114521142970268
+M) Geographic Region 4,0.005530628067228316
+M) Geographic Region 5,0.005530628067228309
+M) Geographic Region 6,0.00274662743140279
+M) Geographic Region 7,0.0027466274314027865
+M) Geographic Region 8,0.005204921804043111
+M) Geographic Region 9,0.0216431948608007
+N) STEM Discipline Focus,0.0029023216615558234
+N) STEM Discipline Focus 1,0.000531921662540874
+N) STEM Discipline Focus 2,5.605588729473698e-06
+N) STEM Discipline Focus 3,0.0001392158818904754
+N) STEM Discipline Focus 4,7.274081285688072e-05
+N) STEM Discipline Focus 5,0.0034349059746385524
+N) STEM Discipline Focus 6,0.00038902823266356856
+N) STEM Discipline Focus 7,0.004476102540434526
+N) STEM Discipline Focus 8,0.0015783360255334222
+N) STEM Discipline Focus 9,0.0026170083733971783
+N) STEM Discipline Focus 10,0.0019533272759229003
+N) STEM Discipline Focus 11,0.0009242667205667521
+N) STEM Discipline Focus 12,0.2684592772911926
+O) Organization or Individual Funded,0.0009594021066011427
+O) Organization or Individual Funded 1,0.00018934606341289295
+O) Organization or Individual Funded 2,0.0011179592664046778
+O) Organization or Individual Funded 3,0.0029023216615558234
+O) Organization or Individual Funded 4,6.391921045714732e-05
+O) Organization or Individual Funded 5,0.00031761408476815856
+O) Organization or Individual Funded 6,0.001291464153045735
+O) Organization or Individual Funded 7,0.0038795139648604704
+O) Organization or Individual Funded 8,0.00026501792629478327
+O) Organization or Individual Funded 9,2.0392463559573692e-05
+O) Organization or Individual Funded 10,0.0005153592777657617
+O) Organization or Individual Funded 11,0.08273541383890767
+P) External Funding Allocation,5.551115123125783e-17
+P) External Funding Allocation 1,0.005204921804043111
+P) External Funding Allocation 2,0.0030532797631354913
+P) External Funding Allocation 3,0.002150793005352203
+P) External Funding Allocation 4,0.0018270121092965053
+P) External Funding Allocation 5,0.05753183300376667
+Q) Legislation Required to Shift Focus?,0.018569757741870568
+R1) Joint Funding of Investment (with Agencies),5.551115123125783e-17
+R1) Joint Funding of Investment (with Agencies) 1,0.018329133986185197
+R1) Joint Funding of Investment (with Agencies) 2,0.026959785879293076
+R1) Joint Funding of Investment (with Agencies) 3,0.0011629590331230406
+R1) Joint Funding of Investment (with Agencies) 4,0.020584022675809274
+R1) Joint Funding of Investment (with Agencies) 5,0.00898335529130697
+R1) Joint Funding of Investment (with Agencies) 6,0.0002877632096263197
+R1) Joint Funding of Investment (with Agencies) 7,0.007179737622230967
+R1) Joint Funding of Investment (with Agencies) 8,0.0062839703473932355
+R1) Joint Funding of Investment (with Agencies) 9,0.0001180823706244602
+R1) Joint Funding of Investment (with Agencies) 10,0.007179737622230967
+R1) Joint Funding of Investment (with Agencies) 11,0.0062839703473932355
+R1) Joint Funding of Investment (with Agencies) 12,0.0001180823706244602
+R2) Joint Funding of Investment (with Other),0.03153273681383588
+R2) Joint Funding of Investment (with Other) 1,0.022519178226866627
+R2) Joint Funding of Investment (with Other) 2,0.001155567807942133
+R2) Joint Funding of Investment (with Other) 3,0.01617370137405117
+R2) Joint Funding of Investment (with Other) 4,0.007179737622230967
+R2) Joint Funding of Investment (with Other) 5,0.0007262767417826575
+R2) Joint Funding of Investment (with Other) 6,0.014393754679143611
+R2) Joint Funding of Investment (with Other) 7,0.0062839703473932355
+R2) Joint Funding of Investment (with Other) 8,0.00037245013219451215
+R2) Joint Funding of Investment (with Other) 9,0.013509782124139415
+R2) Joint Funding of Investment (with Other) 10,0.0062839703473932355
+R2) Joint Funding of Investment (with Other) 11,0.0001180823706244602
+S) Investment Partnerships,0.017260618276791675
+T) Partnerships with What Organization Types?,0.002667706950498089
+T) Partnerships with What Organization Types? 1,0.0002599484074183034
+T) Partnerships with What Organization Types? 2,0.003192845597075139
+T) Partnerships with What Organization Types? 3,0.006018797427713135
+T) Partnerships with What Organization Types? 4,0.0010785037069805173
+T) Partnerships with What Organization Types? 5,1.9028682694925692e-06
+T) Partnerships with What Organization Types? 6,0.000531921662540874
+T) Partnerships with What Organization Types? 7,0.000531921662540874
+T) Partnerships with What Organization Types? 8,0.000531921662540874
+T) Partnerships with What Organization Types? 9,1.0342732705254098e-05
+T) Partnerships with What Organization Types? 10,0.0008008850788175925
+T) Partnerships with What Organization Types? 11,2.5079619175166767e-06
+T) Partnerships with What Organization Types? 12,1.6899340960496723e-06
+T) Partnerships with What Organization Types? 13,2.210442217021047e-05
+T) Partnerships with What Organization Types? 14,0.0003471349047050043
+T) Partnerships with What Organization Types? 15,0.000409271724137919
+T) Partnerships with What Organization Types? 16,0.0008408919237155033
+T) Partnerships with What Organization Types? 17,0.00014700124893166078
+T) Partnerships with What Organization Types? 18,0.0003471349047050043
+T) Partnerships with What Organization Types? 19,0.001821207608485531
+T) Partnerships with What Organization Types? 20,0.0003905113394400417
+T) Partnerships with What Organization Types? 21,6.163870895845025e-06
+T) Partnerships with What Organization Types? 22,0.038656006333937926
+U) Measured Outputs,9.057546114341064e-06
+U) Measured Outputs 1,0.0006072312126611246
+U) Measured Outputs 2,1.1583852571661613e-05
+U) Measured Outputs 3,0.0009482629024267671
+U) Measured Outputs 4,0.0022582670484042403
+U) Measured Outputs 5,0.001373441304726223
+U) Measured Outputs 6,0.0008408919237155033
+U) Measured Outputs 7,7.898134658121392e-05
+U) Measured Outputs 8,0.0041917898819996136
+U) Measured Outputs 9,0.0022907244193673473
+U) Measured Outputs 10,0.0008886958344848928
+U) Measured Outputs 11,0.000868827401186413
+U) Measured Outputs 12,0.0006249762044893206
+U) Measured Outputs 13,1.8222235741549575e-05
+U) Measured Outputs 14,0.18340524157340432
+V) Outcomes Measured,0.007860825019249076
+V) Outcomes Measured 1,0.001035101287703566
+V) Outcomes Measured 2,0.0006073861093301713
+V) Outcomes Measured 3,0.00015492334475093739
+V) Outcomes Measured 4,0.0007219423578462697
+V) Outcomes Measured 5,0.002033557276512804
+V) Outcomes Measured 6,0.0019691335703375043
+V) Outcomes Measured 7,0.009302561870914244
+V) Outcomes Measured 8,0.0007648202053956443
+V) Outcomes Measured 9,8.097918778315893e-06
+V) Outcomes Measured 10,0.0036704247820554953
+V) Outcomes Measured 11,0.0070347601001804205
+V) Outcomes Measured 12,0.13533550750962572
+W) Measurement Instruments Used,0.1721046689689615
+W) Measurement Instruments Used 1,0.10060183815513427
+W) Measurement Instruments Used 2,0.04605846403947603
+X) Evaluated Since 2005?,0.007444726708957031
+Y1) Formative Evaluation Type,0.0011986656028844245
+Y1) Formative Evaluation Type 1,0.003192845597075139
+Y1) Formative Evaluation Type 2,0.0040482283493427605
+Y2) Summative Evaluation Type,0.0008424835258373231
+Y2) Summative Evaluation Type 1,0.0007219423578462697
+Y2) Summative Evaluation Type 2,6.841681966027191e-05
+Y3) Process or Implementation Evaluation Type,0.004756527258198168
+Y3) Process or Implementation Evaluation Type 1,1.3424832275413245e-05
+Y3) Process or Implementation Evaluation Type 2,0.0003083297637891669
+Y4) Portfolio Evaluation/Review Type,0.0011399965412160484
+Y4) Portfolio Evaluation/Review Type 1,0.006774968344180704
+Y4) Portfolio Evaluation/Review Type 2,2.2348201990346483e-05
+Y5) Expert Review Type,0.008301581845406414
+Y5) Expert Review Type 1,0.0024801624104124342
+Growth,0.507978580086775
